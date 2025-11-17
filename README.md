@@ -1,116 +1,78 @@
-<h1 align="center">👨‍💻 Muhammad Yaseen</h1>
-<h3 align="center">🚀 Software Engineer | Frontend Developer | Full-Stack Learner</h3>
+## 🛠️ Skills & Technologies
 
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M5&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-# 🧠 Currently Learning (Full Roadmap)
-
-## 🔥 JavaScript (Advanced)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ES6+-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Promises-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Async%20%2F%20Await-FF8800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fetch%20API-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Higher%20Order%20Functions-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Array%20Methods-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modules-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Classes-darkblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Optional%20Chaining-BB86FC?style=for-the-badge" />
-</p>
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Animations](https://img.shields.io/badge/Animations-FF0080?style=for-the-badge&logo=css3&logoColor=white)
+![Media Queries](https://img.shields.io/badge/Media%20Queries-2965F1?style=for-the-badge)
+![Flexbox](https://img.shields.io/badge/Flexbox-000000?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI Design](https://img.shields.io/badge/Pixel%20Perfect%20UI-00C896?style=for-the-badge)
 
 ---
 
-## 🔵 TypeScript (Complete Roadmap)
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Interfaces-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generics-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enums-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type%20Guards-795548?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Decorators-00ACC1?style=for-the-badge" />
-</p>
+### ⚡ JavaScript + TypeScript
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![ES6+](https://img.shields.io/badge/ES6%2B-000000?style=for-the-badge)
+![Promises](https://img.shields.io/badge/Promises-FF9900?style=for-the-badge)
+![Fetch API](https://img.shields.io/badge/Fetch%20API-0055FF?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Modules-000000?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-8E44AD?style=for-the-badge)
 
 ---
 
-# 🎨 Frontend Technologies
-<p>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Context%20API-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-</p>
+### ⚛️ Modern Frontend (React Ecosystem)
+![React](https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 
 ---
 
-# ⚡ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Authentication-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-FF8800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Payment%20Integration-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
+### 🔐 Authentication + Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-FF8800?style=for-the-badge)
+![HTTPS](https://img.shields.io/badge/HTTPS-008000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 
 ---
 
-# 📱 Mobile App Development
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
+### 🧠 Backend Development (Node.js + Databases)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-F5A623?style=for-the-badge)
 
 ---
 
-# ⚙️ DevOps / Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB0000?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-</p>
+### 📱 Mobile App Development
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
 
 ---
 
-# 🧪 Testing & Security
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CORS-ff9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTTPS-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OWASP Security-red?style=for-the-badge" />
-</p>
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Github Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 🪪 Certifications
-<p>
-  <img src="https://img.shields.io/badge/JavaScript%20by%20JetBrains-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React%20Nanodegree-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Meta%20Front-End-0460A9?style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">⭐ From <a href="https://github.com/M5">Muhammad Yaseen</a></h3>
+### 🏆 Certifications
+- JavaScript (JetBrains)  
+- React Nano Degree  
+- Meta Front-End Developer Certification  
